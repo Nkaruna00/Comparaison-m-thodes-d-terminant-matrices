@@ -15,9 +15,8 @@ The code is written in C.
 * Enter the size of the matrix whose determinant you want to calculate.
 
 
-## Authors
+## Author
 
-Contributors names and contact info
 
 KARUNAKARAN Nithushan
 
